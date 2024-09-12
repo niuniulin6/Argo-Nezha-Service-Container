@@ -172,7 +172,7 @@ services:
 
 ## VPS 部署方式 2 --- 宿主机
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/fscarmen2/Argo-Nezha-Service-Container/main/dashboard.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/niuniulin6/Argo-Nezha-Service-Container/main/dashboard.sh)
 ```
 
 
